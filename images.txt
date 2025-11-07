@@ -1,3 +1,1 @@
-registry.k8s.io/git-sync/git-sync:v4.2.3
-registry.k8s.io/git-sync/git-sync:v3.6.3
-mongo:latest
+apache/airflow:3.0.3
