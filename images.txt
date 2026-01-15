@@ -1,3 +1,4 @@
+postgres:16-alpine
 redis:7.4-alpine
 apache/airflow:3.0.3
 linyuchen/llbot:latest
